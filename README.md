@@ -1,6 +1,16 @@
 Assignment: CSS Hell
 ====================
 
+Modifications：
+
+
+1.Integrated all css styles;
+
+2.Set yellow background;
+
+3.Set the font of paragraphs style to serif;
+
+
 You will skin 3 project gutenberg stories with custom CSS.
 
 You will skin 2 versions of a possible professional homepage for your
